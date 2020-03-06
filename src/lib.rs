@@ -108,11 +108,11 @@ const DEFAULT_EXTS: &'static str = r"
 markdown,
 md,
 mkd,
-ts,
 jst,
 coffee,
 tgz,
 swp,
+xml,
 ";
 
 #[derive(Debug, StructOpt)]
